@@ -1,0 +1,10 @@
+export { default as Navbar } from "./navbar.jsx";
+export { default as Home } from "./home.jsx";
+export { default as Statistics } from "./statistics.jsx";
+export { default as Contract } from "./contract.jsx";
+export { default as Billing } from "./billing.jsx";
+export { default as Business } from "./business.jsx";
+export { default as Cta } from "./cta.jsx";
+export { default as Testimonials } from "./testimonials.jsx";
+export { default as Clients } from "./clients.jsx";
+export { default as Footer } from "./footer.jsx";
